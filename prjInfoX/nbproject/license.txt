@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}InfoX - Sistema de Gestao de Ordens de Servico
+${licensePrefix}Desenvolvido por Afonso Santos
+${licensePrefix}Sob licenca GPL (General Public License)
+<#if licenseLast??>
+${licenseLast}
+</#if>
